@@ -1,0 +1,31 @@
+form{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+input {
+    width: 10rem;
+    padding: 10px;
+    margin: 0 0 0 -45px;
+    border: none;
+    border-bottom: 1px solid rgba(190, 190, 190, 1.3);
+    outline: none;
+
+}
+
+::-webkit-outer-spin-button,
+::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+label {
+    margin-block: auto;
+}
+
+
+h3 {
+    margin-block: auto;
+}
+
